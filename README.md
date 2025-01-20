@@ -1,6 +1,11 @@
-<p align="center">
+
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
+
+<h2>Overview</h2>
+
+![image](https://github.com/user-attachments/assets/664eb5a4-4b46-42ab-966f-4faf28739363)
+
 
 <h2>osTicket (Help Desk Ticketing System)</h2>
 
